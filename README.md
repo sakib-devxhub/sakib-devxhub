@@ -3,17 +3,9 @@
 </a>
 <hr/>
 <h3 align="center">Hi <img align="center" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="saakeeb" height="60" width="60" /> there, I am an enthusiast Frontend Engineer</h3>
-<br/><br/>
+<br/>
 
-
-
-- 👋 Hi, I’m Namzus Sakib
-- 👀 I’m interested in Travelling, Reading Books, Blogs
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-nazmus-dev/nazmus-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
+<a href="https://nazmus.me" target="_blank">
+  <img src="https://github.com/sakib-devxhub/sakib-devxhub/assets/137108255/34a48c79-9456-441a-bb5a-af4c6a24a539" alt="saakeeb | nazmus.me | Reactjs developer | Javascript developer | Frontend Engineer | Developer">
+</a>
